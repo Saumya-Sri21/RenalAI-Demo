@@ -44,7 +44,7 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Installing libraries
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
